@@ -38,8 +38,8 @@
 
   - ### **🎃Spotify Music🎃**
   <br>
-   <object width=350em
-    data="https://spotify-recently-played-readme.vercel.app/api?user=31zp7fgqfxuoy4bpo7rmlsyyyiz4"></object>
+ <img width=350em
+    src="https://spotify-recently-played-readme.vercel.app/api?user=31zp7fgqfxuoy4bpo7rmlsyyyiz4"></img>
     
   - ### **My Discord Server**
 
