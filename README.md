@@ -11,7 +11,6 @@
   [Reven/ChromeTab](https://github.com/Reven208/ChromeNewPage)__
   - __2. ✨ My Bio Page - [RevenBio](https://reven208.github.io/Bio.github.io)__
   <br>
-  <br>
 
   - # __✨Reven✨__
   <br>
@@ -38,9 +37,9 @@
 
   - ### **🎃Spotify Music🎃**
   <br>
- <img width=350em
+  <img style="margin-left: 40px; width=350em
     src="https://spotify-recently-played-readme.vercel.app/api?user=31zp7fgqfxuoy4bpo7rmlsyyyiz4"></img>
-    
+
   - ### **My Discord Server**
 
   <a style="margin-left: 40px;" href="https://discord.gg/UVd8Tu9aSt">
