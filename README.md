@@ -42,7 +42,8 @@
   ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31zp7fgqfxuoy4bpo7rmlsyyyiz4)
 
   - ### **My Discord Server**
-
+ - #### Discord User: **Reven#1618**
+ <br>
   <a style="margin-left: 40px;" href="https://discord.gg/UVd8Tu9aSt">
     <img
       src="https://discordapp.com/api/guilds/997627619245830194/widget.png?style=banner2">
